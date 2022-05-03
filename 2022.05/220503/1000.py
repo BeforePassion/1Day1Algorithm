@@ -3,3 +3,6 @@
 
 A,B = map(int, input().split())
 print(A+B)
+
+# 다른 코드
+print(sum(map(int,input().split())))
